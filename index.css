@@ -85,27 +85,7 @@ h3 {
   top: 7rem; 
   color: blue;
 }
-.second {
-  display: inline-flex;
-  justify-content:space-evenly;
-  padding-left:0;
 
-
-}
-.second li {
-  margin-top: 9rem;
-  padding-right:2rem;
-  list-style-type: none;
-  position: relative;
-  display:inline;
-  text-align: center;
-  font-size: 2rem;
-  color: black;
-}
-.second li:hover {
-  border: 2px solid rgba(95, 95, 255, 0.63);
-  border-radius: 10px;
-}s
 .icon {
   font-size: 2.7rem;
 }
